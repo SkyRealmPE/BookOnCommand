@@ -1,6 +1,6 @@
 name: InfoBook
 version: 1.0
-author: QuiverlyRivalry
+author: Crafter20162017
 api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
 main: InfoBook\Main
 description: Gives a book on command!
@@ -8,5 +8,5 @@ permissions:
  book.command:
   default: true
 commands:
- book:
-  description: Gives the infobook
+ core:
+  description: §eHave access to §bSkyRealm§6Faction's§e Help Section!
